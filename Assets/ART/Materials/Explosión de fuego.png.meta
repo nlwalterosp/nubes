@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 5c07ad6a839f61149adb5a898a3e9de2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_0"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 635
+        width: 177
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c071369a493a458a6e75dc9f6cc06
+      internalID: -720317175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_2"
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 634
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e398b1b6c0f341abaef1beab931a1
+      internalID: -1666909020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_3"
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 634
+        width: 231
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d11849488413418e7f5a12e7be3f0
+      internalID: -1691233594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_4"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 634
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a6fbc1b9d326488cc15f33b3add72
+      internalID: 1239834049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_6"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 248
+        width: 292
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919b1c4dd5954e449322ad03e9078f7
+      internalID: -1877803084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_8"
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 257
+        width: 247
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15b6910d6e200049a5f93e1eba35ab1
+      internalID: 1929664492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Explosi\xF3n de fuego_10"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 343
+        width: 261
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c130ade31e821d45856eac55a6938f2
+      internalID: 1241689922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1440657fe710694b85c5c13c0e34a4f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Explosi\xF3n de fuego_0": -720317175
+      "Explosi\xF3n de fuego_1": 1297843825
+      "Explosi\xF3n de fuego_10": 1241689922
+      "Explosi\xF3n de fuego_11": 2044634956
+      "Explosi\xF3n de fuego_12": 658296118
+      "Explosi\xF3n de fuego_13": 779002331
+      "Explosi\xF3n de fuego_14": -909471883
+      "Explosi\xF3n de fuego_15": -773187225
+      "Explosi\xF3n de fuego_16": -1231629340
+      "Explosi\xF3n de fuego_17": 1491937434
+      "Explosi\xF3n de fuego_18": -139700721
+      "Explosi\xF3n de fuego_19": -767281415
+      "Explosi\xF3n de fuego_2": -1666909020
+      "Explosi\xF3n de fuego_20": -1220618641
+      "Explosi\xF3n de fuego_21": -1543003166
+      "Explosi\xF3n de fuego_22": -275686581
+      "Explosi\xF3n de fuego_23": 2087740421
+      "Explosi\xF3n de fuego_24": 1486891938
+      "Explosi\xF3n de fuego_25": -791227830
+      "Explosi\xF3n de fuego_26": -1744267063
+      "Explosi\xF3n de fuego_27": 1819809196
+      "Explosi\xF3n de fuego_28": -1542910015
+      "Explosi\xF3n de fuego_29": 884790386
+      "Explosi\xF3n de fuego_3": -1691233594
+      "Explosi\xF3n de fuego_30": 1330191195
+      "Explosi\xF3n de fuego_31": 683919607
+      "Explosi\xF3n de fuego_32": 1827640629
+      "Explosi\xF3n de fuego_33": 326172096
+      "Explosi\xF3n de fuego_34": 4591475
+      "Explosi\xF3n de fuego_35": -501823706
+      "Explosi\xF3n de fuego_36": 328211949
+      "Explosi\xF3n de fuego_37": 915191580
+      "Explosi\xF3n de fuego_38": -985444533
+      "Explosi\xF3n de fuego_39": 1800048406
+      "Explosi\xF3n de fuego_4": 1239834049
+      "Explosi\xF3n de fuego_40": 270294965
+      "Explosi\xF3n de fuego_41": -1526435728
+      "Explosi\xF3n de fuego_42": 1770404162
+      "Explosi\xF3n de fuego_43": 1337230096
+      "Explosi\xF3n de fuego_44": 302785841
+      "Explosi\xF3n de fuego_45": 1551254008
+      "Explosi\xF3n de fuego_46": -1977367338
+      "Explosi\xF3n de fuego_47": 1483342504
+      "Explosi\xF3n de fuego_48": 1381450108
+      "Explosi\xF3n de fuego_49": 599924992
+      "Explosi\xF3n de fuego_5": -1902050706
+      "Explosi\xF3n de fuego_50": -828326311
+      "Explosi\xF3n de fuego_51": 366124523
+      "Explosi\xF3n de fuego_52": -1778042802
+      "Explosi\xF3n de fuego_53": 162874948
+      "Explosi\xF3n de fuego_6": -1877803084
+      "Explosi\xF3n de fuego_7": 1332383987
+      "Explosi\xF3n de fuego_8": 1929664492
+      "Explosi\xF3n de fuego_9": -1137505956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
