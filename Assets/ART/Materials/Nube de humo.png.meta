@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 9a738fbd55d200d48bc1a5f1d6d42a27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nube de humo_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 488
+        width: 171
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102737d8309aea749ad658961f470aa1
+      internalID: 1099596130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 488
+        width: 235
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c291fcb18fd4498c20b13ace89bab
+      internalID: -501940751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 489
+        width: 124
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2206112a38b35e4c95fd0e54828f186
+      internalID: -1570340661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 489
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ea65d703f76914a9c574c4e8d50b0a
+      internalID: -1213750868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 226
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafcc17667ead84c9451255630472d4
+      internalID: -1607886207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 49
+        width: 238
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12125a6623235ee4891cf08de270ac9c
+      internalID: 1338126753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube de humo_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 49
+        width: 89
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fa192f9c86e9d4dbf4f070b37e490f
+      internalID: 1122695274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfe6dc7cef56629408e8747bffdcf4c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nube de humo_0: 1099596130
+      Nube de humo_1: 1882501201
+      Nube de humo_10: -1477455982
+      Nube de humo_11: -773151256
+      Nube de humo_12: 1452644706
+      Nube de humo_13: 24514519
+      Nube de humo_14: 1768519919
+      Nube de humo_15: -1098506464
+      Nube de humo_16: -548670682
+      Nube de humo_17: -506411211
+      Nube de humo_18: -1700451617
+      Nube de humo_19: -442817223
+      Nube de humo_2: -501940751
+      Nube de humo_20: 1667853734
+      Nube de humo_21: 2002176242
+      Nube de humo_22: 301691468
+      Nube de humo_23: 587741951
+      Nube de humo_24: 1136336640
+      Nube de humo_25: -347719550
+      Nube de humo_26: 555234958
+      Nube de humo_27: -417483846
+      Nube de humo_28: -808091475
+      Nube de humo_29: 507858667
+      Nube de humo_3: 1535042876
+      Nube de humo_30: -2122533843
+      Nube de humo_31: 1606762134
+      Nube de humo_32: -651505773
+      Nube de humo_33: 1467812212
+      Nube de humo_34: 1197813452
+      Nube de humo_35: 670238459
+      Nube de humo_36: -1149311394
+      Nube de humo_37: 1904103989
+      Nube de humo_38: -1243021449
+      Nube de humo_39: -1607886207
+      Nube de humo_4: -1570340661
+      Nube de humo_40: -1554544857
+      Nube de humo_41: -920276117
+      Nube de humo_42: 524350647
+      Nube de humo_43: -1475391150
+      Nube de humo_44: -262230869
+      Nube de humo_45: 1705436452
+      Nube de humo_46: -468391598
+      Nube de humo_47: -1081632132
+      Nube de humo_48: -1761955058
+      Nube de humo_49: -844243398
+      Nube de humo_5: -597358967
+      Nube de humo_50: 192709253
+      Nube de humo_51: 1596055033
+      Nube de humo_52: 1172923166
+      Nube de humo_53: 1468695636
+      Nube de humo_54: 1541289232
+      Nube de humo_55: 1338126753
+      Nube de humo_56: 1122695274
+      Nube de humo_6: 1949520778
+      Nube de humo_7: -1213750868
+      Nube de humo_8: 1532398663
+      Nube de humo_9: -26130658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

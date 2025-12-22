@@ -125,10 +125,10 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _Voronoi_density: 0.9
+    - _Voronoi_density: 0.7
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _additive: 0.07
+    - _additive: 0.09
     - _deformated_scale: 1
     - _displacement_speed: 0.29
     - _power: 0
@@ -141,11 +141,11 @@ Material:
     - _PrimaryStrength: {r: 1, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _addition: {r: 0.2, g: 0.2, b: 0, a: 0}
-    - _high_light_color: {r: 0.8159487, g: 0.9056604, b: 0.8936733, a: 0}
-    - _light_direction: {r: 0.04, g: -0.09, b: 0.03, a: 0}
+    - _high_light_color: {r: 0.8207547, g: 0.66326565, b: 0.63105196, a: 0}
+    - _light_direction: {r: 0.7, g: -0.09, b: 0.03, a: 0}
     - _power: {r: 0, g: 1, b: 0, a: 0}
     - _secundary_color: {r: 0, g: 0, b: 0, a: 0}
     - _secundarystrength: {r: 1, g: 1, b: 0, a: 0}
-    - _shadow_color: {r: 0.990566, g: 0.9880429, b: 0.98589355, a: 0}
+    - _shadow_color: {r: 0.8773585, g: 0.7387193, b: 0.6000801, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

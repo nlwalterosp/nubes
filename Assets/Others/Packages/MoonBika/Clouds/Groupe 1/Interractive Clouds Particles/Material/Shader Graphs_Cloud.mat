@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_Cloud
-  m_Shader: {fileID: -6465566751694194690, guid: 52229003a2e52fa4781a77f5ceb36044,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 52229003a2e52fa4781a77f5ceb36044, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -41,18 +40,18 @@ Material:
     m_Floats:
     - _Color_Divide_Blur: 6.27
     - _Color_Divide_Hight: -2.33
-    - _Displacement_Intensity: 0.3
-    - _Displacement_Scale: 10
+    - _Displacement_Intensity: 0.2
+    - _Displacement_Scale: 5
     - _Displacement_Speed: 0.05
-    - _Fade_Depth: 0.4
-    - _Fade_Edg: 0.3
+    - _Fade_Depth: 1
+    - _Fade_Edg: 0.1
     - _Fade_Edg_1: 0.8
     - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 0}
-    - _Color_1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.39622638, g: 0.38314342, b: 0.38314342, a: 0.92156863}
+    - _Color_1: {r: 0.7169812, g: 0.51462734, b: 0.42274833, a: 0.50980395}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8992939880565742607
